@@ -17,6 +17,7 @@ export const Vagas_v = styled.li`
       border-color: var(--cor-principal);
       background-color: var(--cor-secundaria);
       color: var(--cor-principal);
+          cursor: pointer;
     }
   }
 
